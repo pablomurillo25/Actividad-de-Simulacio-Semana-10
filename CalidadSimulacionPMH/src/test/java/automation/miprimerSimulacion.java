@@ -143,6 +143,6 @@ public class miprimerSimulacion {
 
 	@After
 	public void after() {
-		//driver.quit();
+		driver.quit();
 	}
 }
